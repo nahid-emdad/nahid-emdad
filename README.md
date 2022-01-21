@@ -33,7 +33,8 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahid-emdad&show_icons=true&locale=en&layout=compact" alt="nahid-emdad" /></p> -->
 
-<p><a href="https://app.daily.dev/NahidEmdad"><img src="https://api.daily.dev/devcards/6fbeae88136c4673b4bb7d17c2e35721.png?r=8sf" width="400" alt="Nahid Emdad's Dev Card"/></a></p>
+<!-- <p><a href="https://app.daily.dev/NahidEmdad"><img src="https://api.daily.dev/devcards/6fbeae88136c4673b4bb7d17c2e35721.png?r=8sf" width="400" alt="Nahid Emdad's Dev Card"/></a></p> -->
+<a href="https://app.daily.dev/NahidEmdad"><img src="https://api.daily.dev/devcards/6fbeae88136c4673b4bb7d17c2e35721.png?r=8sf" width="400" alt="Nahid Emdad's Dev Card"/></a>
 
 <!--
 **nahid-emdad/nahid-emdad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
