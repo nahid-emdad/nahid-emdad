@@ -23,6 +23,8 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahid-emdad&show_icons=true&locale=en&layout=compact" alt="nahid-emdad" /></p> -->
 
+<p><a href="https://app.daily.dev/NahidEmdad"><img src="https://api.daily.dev/devcards/6fbeae88136c4673b4bb7d17c2e35721.png?r=ps1" width="400" alt="Nahid Emdad's Dev Card"/></a> </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahid-emdad&show_icons=true&locale=en" alt="nahid-emdad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-emdad&" alt="nahid-emdad" /></p>
