@@ -10,7 +10,10 @@
 
 - 🌱 I’m currently learning **Node js and C programming**
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nahid-emdad&show_icons=true&locale=en" alt="nahid-emdad" /></p><br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nahid-emdad&show_icons=true&locale=en" alt="nahid-emdad" /></p>
+
+
+
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-emdad&" alt="nahid-emdad" /></p>
 
