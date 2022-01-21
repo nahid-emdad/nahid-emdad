@@ -15,7 +15,7 @@
 
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-emdad&" alt="nahid-emdad" /></p>
+<!-- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-emdad&" alt="nahid-emdad" /></p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
