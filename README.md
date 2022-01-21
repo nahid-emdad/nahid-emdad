@@ -25,9 +25,9 @@
 
 <p><a href="https://app.daily.dev/NahidEmdad"><img src="https://api.daily.dev/devcards/6fbeae88136c4673b4bb7d17c2e35721.png?r=ps1" width="400" alt="Nahid Emdad's Dev Card"/></a> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nahid-emdad&show_icons=true&locale=en" alt="nahid-emdad" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nahid-emdad&show_icons=true&locale=en" alt="nahid-emdad" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-emdad&" alt="nahid-emdad" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-emdad&" alt="nahid-emdad" /></p>
 
 <!--
 **nahid-emdad/nahid-emdad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
