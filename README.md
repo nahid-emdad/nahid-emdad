@@ -10,6 +10,10 @@
 
 - 🌱 I’m currently learning **Node js and C programming**
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nahid-emdad&show_icons=true&locale=en" alt="nahid-emdad" /></p><br>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-emdad&" alt="nahid-emdad" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/nahidemdad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/nahidemdad" height="30" width="40" /></a>
@@ -18,9 +22,7 @@
 <a href="https://codesandbox.com/https://codesandbox.io/u/nahidemdad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/nahidemdad" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nahid-emdad&show_icons=true&locale=en" alt="nahid-emdad" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nahid-emdad&" alt="nahid-emdad" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
